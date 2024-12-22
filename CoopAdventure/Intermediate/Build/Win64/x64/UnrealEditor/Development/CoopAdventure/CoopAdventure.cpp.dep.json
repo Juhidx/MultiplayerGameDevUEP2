@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\source\\coopadventure\\coopadventure.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\intermediate\\build\\win64\\x64\\coopadventureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\coopadventure\\definitions.coopadventure.h",
+            "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\source\\coopadventure\\coopadventure.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

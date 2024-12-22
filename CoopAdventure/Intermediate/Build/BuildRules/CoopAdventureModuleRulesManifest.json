@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Unreal Engine Projects\\MultiplayerGameDevUEP2\\CoopAdventure\\Source\\CoopAdventure\\CoopAdventure.Build.cs",
+		"F:\\Unreal Engine Projects\\MultiplayerGameDevUEP2\\CoopAdventure\\Source\\CoopAdventure.Target.cs",
+		"F:\\Unreal Engine Projects\\MultiplayerGameDevUEP2\\CoopAdventure\\Source\\CoopAdventureEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

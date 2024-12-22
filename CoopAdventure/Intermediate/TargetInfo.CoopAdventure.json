@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CoopAdventure",
+			"Path": "..\\Source\\CoopAdventure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoopAdventureEditor",
+			"Path": "..\\Source\\CoopAdventureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

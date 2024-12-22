@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\intermediate\\build\\win64\\unrealeditor\\inc\\coopadventure\\uht\\coopadventuregamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\intermediate\\build\\win64\\x64\\coopadventureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\coopadventure\\definitions.coopadventure.h",
+            "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\source\\coopadventure\\coopadventuregamemode.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\unreal engine projects\\multiplayergamedevuep2\\coopadventure\\intermediate\\build\\win64\\unrealeditor\\inc\\coopadventure\\uht\\coopadventuregamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

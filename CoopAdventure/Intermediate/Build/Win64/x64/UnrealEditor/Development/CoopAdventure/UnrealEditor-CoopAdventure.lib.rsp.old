@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CoopAdventure.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\CoopAdventureEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\CoopAdventure.init.gen.cpp.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\CoopAdventureCharacter.gen.cpp.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\CoopAdventureGameMode.gen.cpp.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\CoopAdventure.cpp.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\CoopAdventureCharacter.cpp.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\CoopAdventureGameMode.cpp.obj"
+"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\Default.rc2.res"
+/OUT:"F:\Unreal Engine Projects\MultiplayerGameDevUEP2\CoopAdventure\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoopAdventure\UnrealEditor-CoopAdventure.lib"
